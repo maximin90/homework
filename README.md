@@ -2,7 +2,3 @@
 ## h2
 ### h3
 > 김민지 
-
-'''python
-print('hello'')
-'''
