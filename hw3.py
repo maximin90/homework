@@ -26,4 +26,4 @@ for tr in trs:
     }
     docs.append(doc)
 
-db.genie.insert_many(docs):
+db.genie.insert_many(docs)
